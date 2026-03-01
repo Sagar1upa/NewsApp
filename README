@@ -1,0 +1,25 @@
+# NewsApp
+
+iOS News Application with AppStore-style Search.
+
+## Features
+
+- Tab bar search
+- Empty state
+- API based search
+- Bookmark & Newsfeed style UI
+- Dark mode support
+- Unit tests included
+
+## Tech Stack
+
+- Swift
+- UIKit / SwiftUI
+- MVVM
+- URLSession
+
+## How to Run
+
+1. Clone repo
+2. Open .xcodeproj
+3. Run on simulator
