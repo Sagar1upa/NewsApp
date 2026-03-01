@@ -14,7 +14,7 @@ iOS News Application with AppStore-style Search.
 ## Tech Stack
 
 - Swift
-- UIKit / SwiftUI
+- SwiftUI
 - MVVM
 - URLSession
 
